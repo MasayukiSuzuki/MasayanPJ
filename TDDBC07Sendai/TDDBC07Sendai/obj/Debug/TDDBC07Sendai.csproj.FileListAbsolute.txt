@@ -1,0 +1,16 @@
+C:\Users\minmi\documents\visual studio 2017\Projects\TDDBC07Sendai\TDDBC07Sendai\obj\Debug\TDDBC07Sendai.csprojResolveAssemblyReference.cache
+C:\Users\minmi\documents\visual studio 2017\Projects\TDDBC07Sendai\TDDBC07Sendai\bin\Debug\TDDBC07Sendai.exe.config
+C:\Users\minmi\documents\visual studio 2017\Projects\TDDBC07Sendai\TDDBC07Sendai\bin\Debug\TDDBC07Sendai.exe
+C:\Users\minmi\documents\visual studio 2017\Projects\TDDBC07Sendai\TDDBC07Sendai\bin\Debug\TDDBC07Sendai.pdb
+C:\Users\minmi\documents\visual studio 2017\Projects\TDDBC07Sendai\TDDBC07Sendai\bin\Debug\nunit.framework.dll
+C:\Users\minmi\documents\visual studio 2017\Projects\TDDBC07Sendai\TDDBC07Sendai\bin\Debug\nunit.framework.xml
+C:\Users\minmi\documents\visual studio 2017\Projects\TDDBC07Sendai\TDDBC07Sendai\obj\Debug\TDDBC07Sendai.exe
+C:\Users\minmi\documents\visual studio 2017\Projects\TDDBC07Sendai\TDDBC07Sendai\obj\Debug\TDDBC07Sendai.pdb
+C:\Users\User\source\repos\TDDBC07Sendai\TDDBC07Sendai\bin\Debug\TDDBC07Sendai.exe.config
+C:\Users\User\source\repos\TDDBC07Sendai\TDDBC07Sendai\bin\Debug\TDDBC07Sendai.exe
+C:\Users\User\source\repos\TDDBC07Sendai\TDDBC07Sendai\bin\Debug\TDDBC07Sendai.pdb
+C:\Users\User\source\repos\TDDBC07Sendai\TDDBC07Sendai\bin\Debug\nunit.framework.xml
+C:\Users\User\source\repos\TDDBC07Sendai\TDDBC07Sendai\obj\Debug\TDDBC07Sendai.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\TDDBC07Sendai\TDDBC07Sendai\obj\Debug\TDDBC07Sendai.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TDDBC07Sendai\TDDBC07Sendai\obj\Debug\TDDBC07Sendai.exe
+C:\Users\User\source\repos\TDDBC07Sendai\TDDBC07Sendai\obj\Debug\TDDBC07Sendai.pdb
